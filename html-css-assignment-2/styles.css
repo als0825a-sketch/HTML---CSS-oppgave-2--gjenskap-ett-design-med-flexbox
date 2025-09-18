@@ -39,7 +39,6 @@
 .orange, .light_blue, .dark_blue {
     display: flex;
     align-items: start;  
-    justify-content: space-between;
     padding: 2rem;
     gap: 1.5rem;
 }
